@@ -1,4 +1,4 @@
-merb_mobile
+merb\_mobile
 ===========
 
 Merb plugin that sets content_type to :mobile if user agent is a mobile phone.
