@@ -1,7 +1,7 @@
 merb\_mobile
 ===========
 
-Merb plugin that sets content_type to :mobile if user agent is a mobile phone.
+Merb plugin that sets content\_type to :mobile if user agent is a mobile phone.
 
 To activate, just add the following in your controller:
 
@@ -21,4 +21,4 @@ If you want to *always* serve a mobile template regardless of the user agent (su
 
 ...and all requests will use your mobile templates.
 
-Inspired by [hassox's content_type tutorial](http://merbunity.com/tutorials/9) and [mobile-fu for rails](http://www.intridea.com/2008/7/21/mobilize-your-rails-application-with-mobile-fu).
+Inspired by [hassox's content\_type tutorial](http://merbunity.com/tutorials/9) and [mobile-fu for rails](http://www.intridea.com/2008/7/21/mobilize-your-rails-application-with-mobile-fu).
